@@ -2,7 +2,7 @@
     "name": "Dayana",
     "symbol": "DAYI",
     "description": "Dayana's token",
-    "image": "https://github.com/dayanarp/token-assets/blob/12ff9a4297031f799ef34200e0b8938734e7e973/Alice_Face_Dayana.png",
+    "image": "https://raw.githubusercontent.com/dayanarp/token-assets/12ff9a4297031f799ef34200e0b8938734e7e973/Alice_Face_Dayana.png",
     "attributes": [
       {
         "trait_type": "Item",
