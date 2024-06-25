@@ -1,0 +1,12 @@
+{
+    "name": "Dayana",
+    "symbol": "DAYI",
+    "description": "Dayana's token",
+    "image": "",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Dayana token"
+      }
+    ]
+  }
